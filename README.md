@@ -1,5 +1,4 @@
 # Sugerido python 3.12 o superior
-# proyecto-hci
 Para el proyecto se requiere un entorno virtual, puedes crear uno ejecutando:
 ```sh
 python -m venv venv
